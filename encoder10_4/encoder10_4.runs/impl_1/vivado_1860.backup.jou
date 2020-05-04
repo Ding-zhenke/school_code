@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Thu Apr 23 15:28:24 2020
+# Process ID: 1860
+# Current directory: D:/FPGA/school_code/encoder10_4/encoder10_4.runs/impl_1
+# Command line: vivado.exe -log e1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source e1.tcl -notrace
+# Log file: D:/FPGA/school_code/encoder10_4/encoder10_4.runs/impl_1/e1.vdi
+# Journal file: D:/FPGA/school_code/encoder10_4/encoder10_4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source e1.tcl -notrace

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/school_code/10-4decoder/10-4decoder.srcs/sources_1/new/decoder2_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder2_4
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/school_code/10-4decoder/10-4decoder.srcs/sim_1/new/sim1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/FPGA/school_code/10-4decoder/10-4decoder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
